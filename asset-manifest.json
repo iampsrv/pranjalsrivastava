@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pranjalsrivastava/static/css/main.a16c158b.css",
-    "main.js": "/pranjalsrivastava/static/js/main.27a864ab.js",
+    "main.js": "/pranjalsrivastava/static/js/main.be006ec8.js",
     "static/media/profile-pic.jpg": "/pranjalsrivastava/static/media/profile-pic.8f6e26e5eb959c79b577.jpg",
     "index.html": "/pranjalsrivastava/index.html",
     "main.a16c158b.css.map": "/pranjalsrivastava/static/css/main.a16c158b.css.map",
-    "main.27a864ab.js.map": "/pranjalsrivastava/static/js/main.27a864ab.js.map"
+    "main.be006ec8.js.map": "/pranjalsrivastava/static/js/main.be006ec8.js.map"
   },
   "entrypoints": [
     "static/css/main.a16c158b.css",
-    "static/js/main.27a864ab.js"
+    "static/js/main.be006ec8.js"
   ]
 }
