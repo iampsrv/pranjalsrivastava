@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function WorkExperience() {
   return (
-    <div className="flex flex-col p-6 sm:p-10 bg-white shadow-md rounded-lg">
+    <div id="workexp" className="flex flex-col p-6 sm:p-10 bg-white shadow-md rounded-lg">
       <div className="text-4xl font-bold text-gray-800 mb-8 text-center">Work Experience</div>
 
       <div className="flex flex-col space-y-8">

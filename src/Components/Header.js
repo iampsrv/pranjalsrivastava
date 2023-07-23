@@ -9,9 +9,9 @@ export default function Header() {
         </div>
         <div className="flex space-x-4">
           <a href="#aboutme" className="hover:text-gray-300">About Me</a>
-          <a href="#" className="hover:text-gray-300">Work Experience</a>
+          <a href="#workexp" className="hover:text-gray-300">Work Experience</a>
           <a href="#services" className="hover:text-gray-300">Services</a>
-          <a href="#" className="hover:text-gray-300">Contact Me</a>
+          <a href="#contactme" className="hover:text-gray-300">Contact Me</a>
         </div>
       </nav>
     </header>

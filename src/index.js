@@ -9,7 +9,7 @@ import Stats from './Components/Stats';
 import Aboutme from './Components/Aboutme';
 import SkillSet1 from './Components/Skillset1';
 import WorkExperience from './Components/Workexp';
-// import Contact, { ContactUs } from './Components/ContactUs';
+import Contact, { ContactUs } from './Components/ContactUs';
 import { Services } from './Components/Services';
 import Footer from './Components/Footer';
 
@@ -26,7 +26,7 @@ root.render(
     <SkillSet1/>
     <WorkExperience/>
     <Banner/>
-    {/* <ContactUs/> */}
+    <ContactUs/>
     <Footer/>
   </React.StrictMode>
 );
