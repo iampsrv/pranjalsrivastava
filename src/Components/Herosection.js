@@ -1,5 +1,5 @@
 import React from 'react';
-import mainLogo from './profile-pic.jpg';
+import mainLogo from './ps1.jpg';
 
 export default function HeroSection() {
   return (
