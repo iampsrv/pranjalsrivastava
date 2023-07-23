@@ -8,7 +8,7 @@ export const ContactUs = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('', '', form.current, '')
+    emailjs.sendForm('service_rflykgj', 'template_0dneud9', form.current, 'AqPpj7JNY1IfziI3n')
       .then((result) => {
           console.log(result.text);
           form.current.reset();
